@@ -1,0 +1,1 @@
+In this repository, I collect knowledge that was useful to me for an interview for a Deep Learning/Computer Vision engineer. Various topics are collected here: classical machine learning, algorithms, robotics, etc.
